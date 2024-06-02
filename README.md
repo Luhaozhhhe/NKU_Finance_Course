@@ -1,0 +1,2 @@
+# NKU_Finance_Course
+本人在南开大学辅修金融学的课程资料
